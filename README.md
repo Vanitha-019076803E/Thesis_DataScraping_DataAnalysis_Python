@@ -3,7 +3,7 @@
 **#Daily report **- https://docs.google.com/presentation/d/1dz-8cnWrGWMVLodE8cdbnP3kYxy4hikCAmYPVL2jtXU/edit#slide=id.gde8481f29b_1_5
 
 **i) Initials**
-1) Name of the paste websites collection
+1) Paste like websites name collection
 2) Extracting codes from pastebin websites
 
 **ii) Categorization**
